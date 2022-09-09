@@ -3,11 +3,11 @@ module github.com/terraform-google-modules/terraform-example-foundation/test/int
 go 1.17
 
 require (
-	github.com/GoogleCloudPlatform/cloud-foundation-toolkit/infra/blueprint-test v0.2.1-0.20220822233358-4e9b833071f9
-	github.com/gruntwork-io/terratest v0.40.7
-	github.com/stretchr/testify v1.7.1
-	github.com/tidwall/gjson v1.12.1
-	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
+	github.com/GoogleCloudPlatform/cloud-foundation-toolkit/infra/blueprint-test v0.3.0
+	github.com/gruntwork-io/terratest v0.40.22
+	github.com/stretchr/testify v1.8.0
+	github.com/tidwall/gjson v1.14.3
+	golang.org/x/oauth2 f21342109be1
 )
 
 require (
